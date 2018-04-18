@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+}
+td{
+    padding: 10px;font-size: 31px;color:green;
+}
+table{
+    width:100% ;padding: 5px; border: 3px ridge black; background-color: transparent;
+}

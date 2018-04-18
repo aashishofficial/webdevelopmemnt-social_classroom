@@ -1,0 +1,17 @@
+body{
+    display: block;
+    margin: 8px;
+    background-color: beige;
+}
+.container-fluid{
+    margin:70px;
+    padding:0px 2px 2px 0px;
+}
+.row{
+    
+}
+.thumbnail{
+    border:4px activeborder;
+    height:170px;
+    width:170px;
+}
