@@ -1,2 +1,2 @@
 # webdevelopmemnt-social_classroom
-Trying to connect people in my University i.e. Thapar University.
+#Basic website ,successfully added features like changing or removing profile picture,send friend request, accept request,friend list,friend recommendatio etc.
